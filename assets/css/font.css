@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Biome';
+  src: url("Biome-W04-Light.ttf") format("truetype");
+}
+@font-face {
+  font-family: 'HelveticaNeue';
+  src: url("HelveticaNeue.ttf") format("truetype");
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'HelveticaNeue';
+  font-weight: 900;
+  src: url("Helvetica-Neue-Black.otf") format("opentype");
+}
+
+
+
